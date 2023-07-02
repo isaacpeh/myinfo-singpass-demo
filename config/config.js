@@ -3,7 +3,7 @@ let APP_CONFIG = {
   'DEMO_APP_CLIENT_SECRET': 'outzuu7n3bxzcvdyrv98y3picshnkydf1r4ybwas',
   'DEMO_APP_CLIENT_SECURE_CERT': './cert/your-sample-app-certificate.p12',
   'DEMO_APP_CLIENT_SECURE_CERT_PASSPHRASE': 'DemoApp',
-  'DEMO_APP_CALLBACK_URL': 'http://localhost:3001/callback',
+  'DEMO_APP_CALLBACK_URL': 'https://isaacnyc.onrender.com/callback',
   'DEMO_APP_PURPOSE': 'demonstrating MyInfo APIs',
   'DEMO_APP_SCOPES': 'uinfin,name,sex,race,nationality,dob,email,mobileno,regadd,housingtype,hdbtype,marital,edulevel,noa-basic,ownerprivate,cpfcontributions,cpfbalances',
   'MYINFO_API_AUTHORISE': {
